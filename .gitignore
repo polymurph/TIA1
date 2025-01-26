@@ -97,3 +97,15 @@ dkms.conf
 
 # FreeCAD
 *.FCBak
+
+# LT-Spice
+*.raw
+*.log
+*.net
+*.op.raw
+*.bak
+*.tmp
+*.plt
+*.fft
+*.wave
+autosave.*
