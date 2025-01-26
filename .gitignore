@@ -20,6 +20,8 @@ fp-info-cache
 # Netlist files (exported from Eeschema)
 *.net
 
+*.lck
+
 # Autorouter files (exported from Pcbnew)
 *.dsn
 *.ses
